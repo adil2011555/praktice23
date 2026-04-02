@@ -1,0 +1,45 @@
+.h1{
+display: flex;
+justify-content: center;
+}
+.div{
+width: 1481px;
+height: 605px;
+left: 221px;
+gap: 8px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.h4{
+font-weight: 700;
+font-size: 22px;
+height: 120%;
+ spacing:0%;
+}
+.img{
+    width:282px ;
+    height: 283px;
+    border-radius: 12px;
+}
+.p{
+ 
+  spacing:0%;
+width: 400;
+font-size: 22px;
+color: rgb(255, 145, 0);
+}
+.button{
+gap: 10px;
+left: 48px;
+bottom: 21px;
+Right: 48px;
+    width: 283px;
+    height: 60px;
+    border-radius: 8px;
+    background-color: rgb(255, 145, 0);
+    /* text-shadow: rgb(255, 253, 253);
+    box-shadow: rgba(253, 114, 92, 0.22); */
+    color: white;
+    border: none;
+}
